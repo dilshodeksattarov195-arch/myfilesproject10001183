@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensetch",
+        "uuid": 2257164,
+        "checksum": "qaje8rb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
